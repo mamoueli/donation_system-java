@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Donator
+comment1.params=name\ number
+comment1.target=Donator(java.lang.String,\ java.lang.String)
+comment2.params=offer
+comment2.target=void\ addOffer(Offers)
+comment3.params=offer
+comment3.target=void\ removeOffer(Offers)
+comment4.params=
+comment4.target=void\ listOffers()
+numComments=5
