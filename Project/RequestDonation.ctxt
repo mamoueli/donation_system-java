@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=RequestDonation
-comment1.params=entity\ quantity
-comment1.target=RequestDonation(Entity,\ double)
-comment2.params=
-comment2.target=java.lang.String\ getInfo()
-comment3.params=
-comment3.target=double\ getQuantity()
-numComments=4
