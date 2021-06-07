@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Beneficiary
+comment1.params=name\ number\ noPersons
+comment1.target=Beneficiary(java.lang.String,\ java.lang.String,\ int)
+comment2.params=request
+comment2.target=void\ addRequest(Requests)
+comment3.params=request
+comment3.target=void\ removeRequest(Requests)
+comment4.params=received
+comment4.target=void\ addReceived(RequestDonationList)
+comment5.params=received
+comment5.target=void\ removeReceived(RequestDonationList)
+comment6.params=
+comment6.target=void\ listReceived()
+numComments=7

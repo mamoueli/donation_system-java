@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=void\ welcomeMenu()
+comment2.params=org
+comment2.target=void\ loginMenu(Organization)
+comment3.params=donator
+comment3.target=void\ donatorMenu(Donator)
+comment4.params=beneficiary
+comment4.target=void\ beneficiaryMenu(Beneficiary)
+comment5.params=admin
+comment5.target=void\ adminMenu(Admin)
+comment6.params=admin
+comment6.target=void\ continueUsingAppAdmin(Admin)
+comment7.params=donator
+comment7.target=void\ continueUsingAppDonator(Donator)
+comment8.params=beneficiary
+comment8.target=void\ continueUsingAppBeneficiary(Beneficiary)
+comment9.params=
+comment9.target=void\ registrationMenu()
+numComments=10

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RequestDonationList
+comment1.params=
+comment1.target=RequestDonationList()
+comment2.params=Id
+comment2.target=RequestDonation\ get(int)
+comment3.params=rd
+comment3.target=void\ addRequestDonation(RequestDonation)
+comment4.params=rd
+comment4.target=void\ removeRequestDonation(RequestDonation)
+comment5.params=
+comment5.target=void\ resetRequestDonation()
+comment6.params=i
+comment6.target=RequestDonation\ getRd(int)
+numComments=7
