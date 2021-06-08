@@ -196,11 +196,11 @@ public class Menu
                   
                 case 2:
                 //Λόγω του αναφερθέντος μπερδέματος με τις requestDonationList-offers/requests δεν καταφέραμε να υλοποιήσουμε αυτή την επιλογή  
-                  
+                donatorMenu(donator);  
                   
                   
                 case 3:
-                  
+                 donatorMenu(donator);   
                   
                 case 4:
                 loginMenu(org); //πίσω
@@ -328,11 +328,11 @@ public class Menu
                     }
                   case 2:
                   //Λόγω του αναφερθέντος μπερδέματος με τις requestDonationList-offers/requests δεν καταφέραμε να υλοποιήσουμε αυτή την επιλογή 
-                  
+                  beneficiaryMenu(beneficiary);
                   
                   
                   case 3:
-                  
+                  beneficiaryMenu(beneficiary);
                   
                   case 4:
                   loginMenu(org); //πίσω
