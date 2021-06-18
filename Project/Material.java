@@ -7,7 +7,7 @@ public class Material extends Entity{
     this.level2 = level2;
     this.level3 = level3;
      }
-    
+    @Override
     public String getDetails()
     {return getEntityInfo() + "\nSingle person families are entitled to " + this.level1 + " of this material \n" 
                             + "2-4 member families are entitled to " + this.level2 + " of this material \n"
